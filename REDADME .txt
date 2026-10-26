@@ -1,0 +1,4 @@
+ File description
+1. hist_marked_root.csv: Raw grayscale statistical data of root images, used for dual-threshold selection.
+2. hist_marked_root.py: Python script for grayscale histogram calculation and threshold determination.
+3. root_phene.csv: Quantitative root phenotypic traits extracted by the segmentation algorithm.
